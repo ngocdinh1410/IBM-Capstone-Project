@@ -21,7 +21,7 @@ In week 2, I did the following:
 In Week 4, I found an idea for the capstone project.
 
 
-[Week 4 Capstone Project](https://github.com/ngocdinh1410/IBM-Capstone-Project/blob/master/Battle%20of%20the%20Neighborhoods%20Final%20Project-Manhattan-Week2.ipynb)
+[Week 4 Jupyter Notebook](https://github.com/ngocdinh1410/IBM-Capstone-Project/blob/master/Battle%20of%20the%20Neighborhoods%20Final%20Project-Manhattan-Week2.ipynb)
 
 In Week 4, I also executed my capstone project. Due to limited data and difficulty in execution, I changed my idea to focus on NYC crime data. 
 
